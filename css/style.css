@@ -26,12 +26,12 @@ p{
 .c{
   position: absolute;
   top: 190px;
-  left: 420px;
+  left: 520px;
 }
 .cc{
   position: absolute;
   top: 40px;
-  left: 140px;
+  right: 600px;
 }
 ul{
   list-style-type:none;
